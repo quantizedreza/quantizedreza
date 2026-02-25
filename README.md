@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Reza Rahemi. I am a computational physisict. 
+My name is Reza Rahemi. I am a computational physicist. 
 <!--
 **quantizedreza/quantizedreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
