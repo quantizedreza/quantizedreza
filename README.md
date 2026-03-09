@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 My name is Reza Rahemi. I am a computational physicist. 
-Most codes here are written in python/jupyter notebooks. 
 
 <!--
 **quantizedreza/quantizedreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
