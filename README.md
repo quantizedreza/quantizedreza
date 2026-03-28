@@ -3,7 +3,7 @@
 My name is Reza Rahemi. I am a computational physicist.
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="24" height="36" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="24" height="36" alt="Python" /></a><a href="https://scripps.ucsd.edu/" target="_blank" rel="noreferrer"><img src="https://scripps.ucsd.edu/sites/default/files/2020-09/UCSD-SIO_Logo_Horizontal.svg" width="24" height="36" alt="SIO" /></a>
                     </p>
 
 <!--
