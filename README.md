@@ -3,7 +3,7 @@
 My name is Reza Rahemi. I am a computational physicist.
 
 <p align="left">
-<a href="https://scripps.ucsd.edu/" target="_blank" rel="noreferrer"><img src="[https://scripps.ucsd.edu/sites/default/files/2020-09/UCSD-SIO_Logo_Horizontal.svg](https://github.com/user-attachments/assets/bb75f26b-c11f-4ba8-8fc7-462a7c9c40ac" alt="SIO" /></a>
+<a href="https://scripps.ucsd.edu/" target="_blank" rel="noreferrer"><img src="[https://scripps.ucsd.edu/sites/default/files/2020-09/UCSD-SIO_Logo_Horizontal.svg" alt="SIO" /></a>
                     </p>
 
 
