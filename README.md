@@ -8,3 +8,4 @@ I work on computational problems in Materials Physics, Geophysics, Planetary Phy
 
 
 # My Recent Papers
+Rahemi, R., & Li, D. (2015). Variation in electron work function with temperature and its effect on the Young’s modulus of metals. Scripta materialia, 99, 41-44.
