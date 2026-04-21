@@ -7,7 +7,7 @@ I work on computational problems in Materials Physics, Geophysics, Planetary Phy
 <img width="777" height="120" alt="logo" src="https://github.com/user-attachments/assets/cb5d609c-d0c7-446d-83e3-3a4c151fa7b2" />
 
 
-## My Recent Papers
+## My Featured Papers
 
 Rahemi, R. (2016). Temperature dependence of slow positron reemission from metals. *arXiv preprint arXiv:1602.01709*. https://arxiv.org/abs/1602.01709
 
