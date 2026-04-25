@@ -4,7 +4,7 @@ My name is Reza Rahemi. I am a computational physicist.
 
 I work on computational problems in Materials Physics, Planetary Physics, and Physics Of Complex Systems. 
 
-<img width="388" height="60" alt="logo" src="https://github.com/user-attachments/assets/cb5d609c-d0c7-446d-83e3-3a4c151fa7b2" />
+<img width="400" height="70" alt="logo" src="https://github.com/user-attachments/assets/cb5d609c-d0c7-446d-83e3-3a4c151fa7b2" />
 
 
 ## My Featured Papers
