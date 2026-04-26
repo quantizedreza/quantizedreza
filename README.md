@@ -7,6 +7,9 @@ I work on computational problems in Materials Physics, Planetary Physics, and Ph
 <img width="400" height="70" alt="logo" src="https://github.com/user-attachments/assets/cb5d609c-d0c7-446d-83e3-3a4c151fa7b2" />
 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+
 ## My Featured Papers
 
 Rahemi, R. (2025). *Geological Sequestration of CO₂: Physics of a Complex System*. https://escholarship.org/uc/item/19j9z97d
