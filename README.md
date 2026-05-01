@@ -4,9 +4,6 @@ My name is Reza Rahemi. I am a computational physicist.
 
 I work on computational problems in Materials Physics, Planetary Physics, and Physics Of Complex Systems. 
 
-<img width="400" height="70" alt="logo" src="https://github.com/user-attachments/assets/cb5d609c-d0c7-446d-83e3-3a4c151fa7b2" />
-
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 
@@ -20,3 +17,4 @@ Rahemi, R. (2016). *Temperature dependence of slow positron reemission from meta
 
 Rahemi, R., & Li, D. (2015). *Variation in electron work function with temperature and its effect on the Young’s modulus of metals.* *Scripta Materialia, 99*, 41–44.
  	https://doi.org/10.1016/j.scriptamat.2014.11.022
+<img width="400" height="70" alt="logo" src="https://github.com/user-attachments/assets/cb5d609c-d0c7-446d-83e3-3a4c151fa7b2" />
