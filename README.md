@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-My name is Reza Rahemi. I am a computational physicist. 
-
-I work on computational problems in Applied Physics. 
+My name is Reza Rahemi. I work on computational problems in Applied Physics. 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
