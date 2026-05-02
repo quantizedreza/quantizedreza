@@ -7,7 +7,6 @@ My name is Reza Rahemi. I work on computational problems in Applied Physics.
 
 ## My Featured Papers
 
-Rahemi, R. (2025). *Geological Sequestration of CO₂: Physics of a Complex System*. https://escholarship.org/uc/item/19j9z97d
 
 Rahemi, R. (2016). *Temperature dependence of slow positron reemission from metals.* *arXiv preprint arXiv:1602.01709*. https://arxiv.org/abs/1602.01709
 
