@@ -8,6 +8,7 @@ My name is Reza Rahemi. I work on computational problems in Applied Physics.
 ## My Featured Papers
 
 Rahemi, R. (2024). *Controversies of Thermal Transport In Carbon Nanotubes.* University Of California, San Diego - Talk 
+
 Rahemi, R. (2016). *Temperature dependence of slow positron reemission from metals.* *arXiv preprint arXiv:1602.01709*. https://arxiv.org/abs/1602.01709
 
 ### Peer-reviewed High Impact Papers:
