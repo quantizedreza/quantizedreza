@@ -16,6 +16,7 @@ Rahemi, R. (2016). *Temperature dependence of slow positron reemission from meta
 Rahemi, R., & Li, D. (2015). *Variation in electron work function with temperature and its effect on the Young’s modulus of metals.* *Scripta Materialia, 99*, 41–44.
  	https://doi.org/10.1016/j.scriptamat.2014.11.022
   
+<img width="4096" height="2808" alt="IGPP" src="https://github.com/user-attachments/assets/bd8ecc7c-574b-48ad-9a31-db761e9e8232" />
 
-<img width="600" height="100" alt="logo-igpp-blue" src="https://github.com/user-attachments/assets/10f21072-6a9f-4062-a1e5-b914ea72f90a" />
+<img width="300" height="50" alt="logo-igpp-blue" src="https://github.com/user-attachments/assets/10f21072-6a9f-4062-a1e5-b914ea72f90a" />
 
