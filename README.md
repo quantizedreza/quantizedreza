@@ -17,3 +17,6 @@ Rahemi, R., & Li, D. (2015). *Variation in electron work function with temperatu
  	https://doi.org/10.1016/j.scriptamat.2014.11.022
   
 <img width="650" height="500" alt="586682331-e6cdf74a-ef94-4b4c-8923-8065956543ad" src="https://github.com/user-attachments/assets/8558363b-2304-4f60-8ac3-45bc900cfcec" />
+
+<img width="2734" height="417" alt="logo-igpp-blue" src="https://github.com/user-attachments/assets/10f21072-6a9f-4062-a1e5-b914ea72f90a" />
+
