@@ -1,4 +1,4 @@
-<img width="700" height="350" alt="IGPP" src="https://github.com/user-attachments/assets/bd8ecc7c-574b-48ad-9a31-db761e9e8232" />
+<img width="800" height="300" alt="IGPP" src="https://github.com/user-attachments/assets/bd8ecc7c-574b-48ad-9a31-db761e9e8232" />
 
 
 ## Hi there 👋
