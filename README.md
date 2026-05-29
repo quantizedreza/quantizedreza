@@ -10,7 +10,7 @@ My name is Reza Rahemi. I work on computational problems in Applied Physics.
 
 ## My Featured Papers & Talks
 
-Rahemi, R. (2025). *Physics Informed Risk Analysis Of Carbon Capture & Storage.* Sccripps Institution Of Oceanography - Talk 
+Rahemi, R. (2025). *Physics Informed Risk Analysis Of Anthropogenic Seismicity: Carbon Capture & Storage.* Sccripps Institution Of Oceanography - Talk 
 
 Rahemi, R. (2024). *Controversies of Thermal Transport In Carbon Nanotubes.* University Of California, San Diego - Talk 
 
