@@ -14,7 +14,7 @@ Rahemi, R. (2025). Evidence Of Climate Change Induced Seismicity - $S^3$ Symposi
 
 Rahemi, R. (2025). *Physics Informed Risk Analysis Of Anthropogenic Seismicity: Carbon Capture & Storage.* Sccripps Institution Of Oceanography - Talk 
 
-Rahemi, R. (2024). *Thermal Transport In Carbon Nanotubes: Revisiting The Controversies * University Of California, San Diego - Talk 
+Rahemi, R. (2024). *Thermal Transport In Carbon Nanotubes: Revisiting The Controversies * Deccember Conference hosted by Prof. Lenoid Butov - University Of California, San Diego - Talk 
 
 Rahemi, R. (2016). *Temperature dependence of slow positron reemission from metals.* *arXiv preprint arXiv:1602.01709*. https://arxiv.org/abs/1602.01709
 
