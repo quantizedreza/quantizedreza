@@ -10,6 +10,8 @@ My name is Reza Rahemi. I work on computational problems in Applied Physics.
 
 ## My Featured Papers & Talks
 
+Rahemi, R. (2025). Evidence Of Climate Change Induced Seismicity - $S^3$ Symposium - Scripps Institution Of Oceanography, September 2025. [Poster Talk](https://github.com/quantizedreza/Planetary-Physics-With-Python/blob/main/Induced_Seismicity/poster.pdf).
+
 Rahemi, R. (2025). *Physics Informed Risk Analysis Of Anthropogenic Seismicity: Carbon Capture & Storage.* Sccripps Institution Of Oceanography - Talk 
 
 Rahemi, R. (2024). *Thermal Transport In Carbon Nanotubes: Revisiting The Controversies * University Of California, San Diego - Talk 
