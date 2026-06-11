@@ -1,5 +1,5 @@
 <img width="800" height="250" alt="reza-rahemi" src="https://github.com/user-attachments/assets/d593628c-f43f-4e30-b5c3-0620144ec35e" />
-<img width="1100" height="600" alt="gp_regression_animation" src="https://github.com/user-attachments/assets/5afcf7e5-83ab-499b-9545-c6534ebfe751" />
+<img width="800" height="200" alt="gp_regression_animation" src="https://github.com/user-attachments/assets/5afcf7e5-83ab-499b-9545-c6534ebfe751" />
 
 
 
