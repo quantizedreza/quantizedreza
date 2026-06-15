@@ -7,9 +7,6 @@
 
 My name is Reza Rahemi. I work on computational problems in Applied Physics. 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-
 ### Selected Peer-reviewed High Impact Paper:
 
 Rahemi, R., & Li, D. (2015). *Variation in electron work function with temperature and its effect on the Young’s modulus of metals.* *Scripta Materialia, 99*, 41–44.
@@ -27,3 +24,5 @@ Rahemi, R. (2024). *Thermal Transport In Carbon Nanotubes: Revisiting The Contro
 
 Rahemi, R. (2016). *Temperature dependence of slow positron reemission from metals.* *arXiv preprint arXiv:1602.01709*. https://arxiv.org/abs/1602.01709
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
