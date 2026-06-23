@@ -14,9 +14,5 @@ Rahemi, R., & Li, D. (2015). *Variation in electron work function with temperatu
   
 
 
-## My Featured Papers & Talks
-
-Rahemi, R. (2025). Evidence Of Climate Change Induced Seismicity - $S^3$ Symposium Conference - Scripps Institution Of Oceanography, September 2025. [Poster Talk](https://github.com/quantizedreza/Planetary-Physics-With-Python/blob/main/Induced_Seismicity/poster.pdf).
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
