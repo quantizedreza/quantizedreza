@@ -10,8 +10,9 @@ My name is Reza Rahemi. I work on computational problems in Applied Physics.
 
 Rahemi, R., & Li, D. (2015). *Variation in electron work function with temperature and its effect on the Young’s modulus of metals.* *Scripta Materialia, 99*, 41–44.
  	https://doi.org/10.1016/j.scriptamat.2014.11.022
-  
+
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+  <img width="1801" height="301" alt="UCSD-SIO_Hrizontal-Color_RGB" src="https://github.com/user-attachments/assets/73b9c8c8-aacc-4c0e-b649-0b16dc36d14a" />
