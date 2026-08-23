@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-My name is Reza Rahemi. I work on computational problems in Applied Physics. 
+My name is Reza Rahemi. I work on computational problems in Applied Physics & Mathematics. 
 
 ### Selected Peer-reviewed High Impact Paper:
 
