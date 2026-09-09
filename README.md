@@ -14,7 +14,6 @@ Rahemi, Reza, & Li, D. (2015). *Variation in electron work function with tempera
 <img width="270" height="75" alt="UCSD-SIO_Hrizontal-Color_RGB" src="https://github.com/user-attachments/assets/0943ed2e-dbb7-4365-9d86-80344aa0e6e0" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 
 Codes and other properties by this Guithub User can be cited as: 
 
