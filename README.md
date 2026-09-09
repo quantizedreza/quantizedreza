@@ -11,9 +11,14 @@ My name is Reza Rahemi. I work on computational problems in Applied Physics & Ma
 Rahemi, Reza, & Li, D. (2015). *Variation in electron work function with temperature and its effect on the Young’s modulus of metals.* Elsevier, *Scripta Materialia, 99*, 41–44.
  	https://doi.org/10.1016/j.scriptamat.2014.11.022
 
-© 2026 - Reza Rahemi
+<img width="270" height="75" alt="UCSD-SIO_Hrizontal-Color_RGB" src="https://github.com/user-attachments/assets/0943ed2e-dbb7-4365-9d86-80344aa0e6e0" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 
-<img width="270" height="75" alt="UCSD-SIO_Hrizontal-Color_RGB" src="https://github.com/user-attachments/assets/0943ed2e-dbb7-4365-9d86-80344aa0e6e0" />
+Codes and other properties by this Guithub User can be cited as: 
+Rahemi, R. [Repository Name], GitHub. https://github.com/quantizedreza, (YEAR)
+
+© Reza Rahemi
+
+
