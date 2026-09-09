@@ -15,7 +15,7 @@ Rahemi, Reza, & Li, D. (2015). *Variation in electron work function with tempera
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Codes and other properties by this Guithub User can be cited as: 
+Codes and other properties here can be cited as: 
 
 Rahemi, R. GitHub. https://github.com/quantizedreza
 
