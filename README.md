@@ -18,7 +18,7 @@ Rahemi, Reza, & Li, D. (2015). *Variation in electron work function with tempera
 
 Codes and other properties by this Guithub User can be cited as: 
 
-Rahemi, R. [Repository Name], GitHub. https://github.com/quantizedreza, (YEAR)
+Rahemi, R. GitHub. https://github.com/quantizedreza
 
 © Reza Rahemi
 
