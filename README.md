@@ -10,7 +10,7 @@ My active research areas are:
 
 ## Data Assimilation 
 ## Physics Of Complex Systems
-## Physics-Informed Risk Analysis 
+## Physics-Informed Statistical Machine Learning  
 
 ### Selected Peer-reviewed High Impact Paper:
 
