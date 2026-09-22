@@ -12,7 +12,7 @@ My name is Reza Rahemi. I work on computational problems in Applied Physics & Ma
 ### Physics Of Complex Systems
 ### Physics-Informed Statistical Machine Learning  
 
-### Selected Peer-reviewed High Impact Paper:
+## Selected Peer-reviewed High Impact Paper:
 
 Rahemi, Reza, & Li, D. (2015). *Variation in electron work function with temperature and its effect on the Young’s modulus of metals.* Elsevier, *Scripta Materialia, 99*, 41–44.
  	https://doi.org/10.1016/j.scriptamat.2014.11.022
