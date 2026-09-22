@@ -6,7 +6,7 @@
 
 My name is Reza Rahemi. I work on computational problems in Applied Physics & Mathematics. 
 
-$$ My active research areas are:
+## My active research areas are:
 
 ### Data Assimilation 
 ### Physics Of Complex Systems
