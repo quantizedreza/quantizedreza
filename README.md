@@ -6,6 +6,12 @@
 
 My name is Reza Rahemi. I work on computational problems in Applied Physics & Mathematics. 
 
+My active research areas are:
+
+## Data Assimilation 
+## Physics Of Complex Systems
+## Physics-Informed Risk Analysis 
+
 ### Selected Peer-reviewed High Impact Paper:
 
 Rahemi, Reza, & Li, D. (2015). *Variation in electron work function with temperature and its effect on the Young’s modulus of metals.* Elsevier, *Scripta Materialia, 99*, 41–44.
