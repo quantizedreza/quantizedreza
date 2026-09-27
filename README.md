@@ -8,9 +8,7 @@ My name is Reza Rahemi. I work on computational problems in Applied Physics & Ma
 
 ## My active research areas are:
 
-### Data Assimilation 
-### Physics Of Complex Systems
-### Physics-Informed Statistical Machine Learning  
+Data Assimilation, Physics Of Complex Systems, and Physics-Informed Statistical Machine Learning  
 
 ## Selected Peer-reviewed High Impact Paper:
 
