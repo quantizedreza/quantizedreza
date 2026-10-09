@@ -1,11 +1,5 @@
 <!-- <img width="800" height="250" alt="reza-rahemi" src="https://github.com/user-attachments/assets/d593628c-f43f-4e30-b5c3-0620144ec35e" /> -->
 
-
-
-## Hi there 👋
-
-My name is Reza Rahemi. I work on computational problems in Applied Physics & Mathematics. 
-
 ## My active research areas are:
 
 Data Assimilation, Physics Of Complex Systems, and Physics-Informed Statistical Machine Learning  
