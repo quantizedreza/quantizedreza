@@ -19,10 +19,6 @@ Data Assimilation, Physics Of Complex Systems, and Physics-Informed Statistical 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Codes and other properties here can be cited as: 
-
-Rahemi, R. GitHub. https://github.com/quantizedreza
-
-© Reza Rahemi
+© 2026
 
 
