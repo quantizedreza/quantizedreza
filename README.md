@@ -12,7 +12,7 @@ Data Assimilation, Physics Of Complex Systems, and Physics-Informed Statistical 
 
 ## Selected Peer-reviewed High Impact Paper:
 
-Rahemi, Reza, & Li, D. (2015). *Variation in electron work function with temperature and its effect on the Young’s modulus of metals.* Elsevier, *Scripta Materialia, 99*, 41–44.
+ *Variation in electron work function with temperature and its effect on the Young’s modulus of metals.* Elsevier, *Scripta Materialia, 99*, 41–44.
  	https://doi.org/10.1016/j.scriptamat.2014.11.022
 
 <img width="270" height="75" alt="UCSD-SIO_Hrizontal-Color_RGB" src="https://github.com/user-attachments/assets/0943ed2e-dbb7-4365-9d86-80344aa0e6e0" />
