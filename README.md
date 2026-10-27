@@ -11,8 +11,8 @@ Data Assimilation, Physics Of Complex Systems, and Physics-Informed Statistical 
 
 <img width="270" height="75" alt="UCSD-SIO_Hrizontal-Color_RGB" src="https://github.com/user-attachments/assets/0943ed2e-dbb7-4365-9d86-80344aa0e6e0" />
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) © 2026
 
-© 2026
+
 
 
